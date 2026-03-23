@@ -1,7 +1,7 @@
 <h1 align="center">Tech Inventory - iOS App</h1>
 
 <p align="center">
-  ( Hive.ai by Chatous Technologies Pvt. Ltd. )
+  ( Interview Assignment - Hive.ai by Chatous Technologies Pvt. Ltd. )
 </p>
 
 <p align="center">
