@@ -124,39 +124,6 @@ xcrun simctl list devices
     <img src="ProjectOutputs/Snapshots/mainScreenD3.jpg" alt="Main Screen 3D" width="30%" />
 </p>
 
-##
-
-<p align="center">
-    <img src="ProjectOutputs/Snapshots/mainScreenD4.jpg" alt="Main Screen 4D" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreenD5.jpg" alt="Main Screen 5D" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreenD6.jpg" alt="Main Screen 6D" width="30%" />
-</p>
-
-##
-
-<p align="center">
-    <img src="ProjectOutputs/Snapshots/mainScreenD7.jpg" alt="Main Screen 7D" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreenD8.jpg" alt="Main Screen 8D" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreenD9.jpg" alt="Main Screen 9D" width="30%" />
-</p>
-
-##
-
-<p align="center">
-    <img src="ProjectOutputs/Snapshots/mainScreenD10.jpg" alt="Main Screen 10D" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreenD11.jpg" alt="Main Screen 11D" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreenD12.jpg" alt="Main Screen 11bD" width="30%" />
-</p>
-
-##
-
-<p align="center">
-    <img src="ProjectOutputs/Snapshots/mainScreenD13.jpg" alt="Main Screen 11bD" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreenD14.jpg" alt="Main Screen 12D" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreenD11.jpg" alt="Main Screen 13D" width="30%" />
-</p>
-
-
 <p align="center">
   *Screenshots of the Tech Inventory App showing different screens*
 </p>
