@@ -95,6 +95,97 @@ xcrun simctl list devices
 
 ---
 
+## 🎨 App Look:
+
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/appLookB.jpg" alt="App Look B" width="30%" />
+</p>
+<p align="center">
+  *App snapshot in the simulator.*
+</p>
+
+---
+
+## 🖼️ Screenshots:
+
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/SScreen.jpg" alt="Splash Screen 0D" width="30%" />
+</p>
+
+<p align="center">
+  *Splash screen displayed upon app launch.*
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD1.jpg" alt="Main Screen 1D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD2.jpg" alt="Main Screen 2D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD3.jpg" alt="Main Screen 3D" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD4.jpg" alt="Main Screen 4D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD5.jpg" alt="Main Screen 5D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD6.jpg" alt="Main Screen 6D" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD7.jpg" alt="Main Screen 7D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD8.jpg" alt="Main Screen 8D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD9.jpg" alt="Main Screen 9D" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD10.jpg" alt="Main Screen 10D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD11.jpg" alt="Main Screen 11D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD12.jpg" alt="Main Screen 11bD" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD13.jpg" alt="Main Screen 11bD" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD14.jpg" alt="Main Screen 12D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD11.jpg" alt="Main Screen 13D" width="30%" />
+</p>
+
+
+<p align="center">
+  *Screenshots of the GlamCart App showing different screens*
+</p>
+
+---
+
+## 📱 App Icon:
+
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="30%" />
+</p>
+<p align="center">
+  *The App Icon reflects the GlamCart Look*
+</p>
+
+---
+
+## 🚀 Video Demo:
+
+Here’s a short video showcasing the app's functionality:
+
+<p align="center">
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideoD.gif" alt="Working App 1" width="30%" />
+</p>
+
+➤ <a href="ProjectOutputs/WorkingVideo/WorkingVideoD.MP4">🎥 Watch Working Video</a>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.
