@@ -1,6 +1,8 @@
 <h1 align="center">Tech Inventory - iOS App</h1>
 
-**( Hive.ai by Chatous Technologies Pvt. Ltd. )**
+<p align="center">
+  ( Hive.ai by Chatous Technologies Pvt. Ltd. )
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/swift-5.0-orange" alt="Swift Badge" />
