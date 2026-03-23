@@ -96,7 +96,7 @@ xcrun simctl list devices
 - No API key required
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/apiImage.jpg" alt="App Look B"/>
+  <img src="ProjectOutputs/Snapshots/apiImage.png" alt="App Look B"/>
 </p>
 
 ---
