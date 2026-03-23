@@ -94,6 +94,7 @@ xcrun simctl list devices
 
 - Image list: `https://picsum.photos/v2/list?page={page}&limit=10`
 - No API key required
+- Lorem Picsum website: https://picsum.photos/
 
 <p align="center">
   <img src="ProjectOutputs/Snapshots/apiImage.png" alt="App Look B"/>
