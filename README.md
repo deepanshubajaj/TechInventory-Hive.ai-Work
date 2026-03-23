@@ -158,7 +158,7 @@ xcrun simctl list devices
 
 
 <p align="center">
-  *Screenshots of the GlamCart App showing different screens*
+  *Screenshots of the Tech Inventory App showing different screens*
 </p>
 
 ---
@@ -169,7 +169,7 @@ xcrun simctl list devices
   <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="30%" />
 </p>
 <p align="center">
-  *The App Icon reflects the GlamCart Look*
+  *The App Icon reflects the Tech Inventory Look*
 </p>
 
 ---
