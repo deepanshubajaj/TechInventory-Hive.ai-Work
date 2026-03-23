@@ -112,6 +112,10 @@ Contributions are welcome.
 
 ---
 
-## 📃 License
+## 📃 License:
 
-This project is licensed under the Apache-2.0 License. See `LICENSE`.
+This project is licensed under the [Apache-2.0 License](./LICENSE).  
+You are free to use this project for personal, educational, or commercial purposes — just make sure to provide proper attribution.
+
+> **Clarification:** Commercial use includes, but is not limited to, use in products,  
+> services, or activities intended to generate revenue, directly or indirectly.
