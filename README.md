@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="ProjectOutputs/Others/companyLogo.png" alt="Company Logo"/>
+  <img src="ProjectOutputs/Others/companyLogo.png" alt="Company Logo" width="30%"/>
 </p>
 
 ---
