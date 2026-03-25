@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/swift-5.0-orange" alt="Swift Badge" />
   <img src="https://img.shields.io/badge/platform-iOS-blue" alt="Platform Badge" />
   <img src="https://img.shields.io/badge/ui-UIKit-7F52FF" alt="UIKit Badge" />
-  <img src="https://img.shields.io/badge/architecture-MVC-purple" alt="Architecture Badge" />
+  <img src="https://img.shields.io/badge/architecture-MVVM-purple" alt="Architecture Badge" />
   <img src="https://img.shields.io/badge/license-Apache--2.0-green" alt="License Badge" />
   <img src="https://img.shields.io/github/last-commit/deepanshubajaj/TechInventory-Hive.ai-Work" alt="Last Commit" />
   <img src="https://img.shields.io/github/stars/deepanshubajaj/TechInventory-Hive.ai-Work?style=social" alt="GitHub Stars" />
@@ -162,18 +162,37 @@ Here’s a short video showcasing the app's functionality:
 
 ## 🤝 Contributing
 
-Contributions are welcome.
+Thank you for your interest in contributing to this project!  
+I welcome contributions from the community.
 
-1. Fork the repository
-2. Create a feature branch:
+- You are free to use, modify, and redistribute this code under the terms of the **Apache-2.0 License**.
+- If you'd like to contribute, please **open an issue** or **submit a pull request**.
+- All contributions will be reviewed and approved by the author — **[Deepanshu Bajaj](https://github.com/deepanshubajaj?tab=overview&from=2025-03-01&to=2025-03-31)**.
+
+---
+
+## 📌 How to Contribute
+
+To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch:
    ```bash
    git checkout -b feature/your-feature-name
    ```
+
 3. Commit your changes:
    ```bash
-   git commit -m "Add your feature"
+   git commit -m 'Add your feature'
    ```
-4. Push and open a pull request
+
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+5. Open a pull request.
 
 ---
 
@@ -184,3 +203,9 @@ You are free to use this project for personal, educational, or commercial purpos
 
 > **Clarification:** Commercial use includes, but is not limited to, use in products,  
 > services, or activities intended to generate revenue, directly or indirectly.
+
+---
+
+## 📩 Contact:
+
+You can reach out to me [here](https://contact-form-react-sepia.vercel.app/).
