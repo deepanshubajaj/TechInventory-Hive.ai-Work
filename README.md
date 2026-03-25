@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <img src="ProjectOutputs/Others/companyLogo.png" alt="Company Logo"/>
+</p>
+
+---
+
+<p align="center">
   <img src="https://img.shields.io/badge/swift-5.0-orange" alt="Swift Badge" />
   <img src="https://img.shields.io/badge/platform-iOS-blue" alt="Platform Badge" />
   <img src="https://img.shields.io/badge/ui-UIKit-7F52FF" alt="UIKit Badge" />
@@ -13,6 +19,8 @@
   <img src="https://img.shields.io/github/last-commit/deepanshubajaj/TechInventory-Hive.ai-Work" alt="Last Commit" />
   <img src="https://img.shields.io/github/stars/deepanshubajaj/TechInventory-Hive.ai-Work?style=social" alt="GitHub Stars" />
 </p>
+
+---
 
 **Tech Inventory (Hive.ai)** is a lightweight iOS assignment app for **Hive.ai by Chatous Technologies Pvt. Ltd.**. It demonstrates a paginated photo grid using **UIKit**, backed by a simple networking layer with `URLSession`.
 
